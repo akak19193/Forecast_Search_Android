@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_winds.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_winds.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_warnings.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_warnings.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_stormcell_general.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_stormcell_general.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_dust.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_dust.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_earthquakes.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_earthquakes.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_minor.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_minor.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_sst.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_sst.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_major.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_major.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_fire.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_fire.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_lomax.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_lomax.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_stormcell_hail.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_stormcell_hail.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_wildfire.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_wildfire.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_teal.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_teal.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_tstorm.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_tstorm.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_records.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_records.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_himin.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_himin.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_wave.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_lightning_blue.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_lightning_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_tornado.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_tornado.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_moderate.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_moderate.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_black.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_black.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_maxtemp.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_maxtemp.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_rain.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_avalanche.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_avalanche.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_lightning_red.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_lightning_red.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_snow.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_grey.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_brown.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_brown.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_freeze.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_freeze.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_stormreports.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_stormreports.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_great.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_great.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_strong.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_strong.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_stormcell_tornado.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_stormcell_tornado.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_purple.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_hail.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_hail.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_ice.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_ice.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_blue.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_temps.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_temps.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_heatindex.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_heatindex.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_mini.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_mini.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_lightning_yellow.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_lightning_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_rain.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_windchill.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_windchill.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_stormcell_rotating.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_stormcell_rotating.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_lightning_orange.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_lightning_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_chlorophyll.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_chlorophyll.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_snow.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_stormcells.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_stormcells.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_record_mintemp.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_record_mintemp.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_lightning_white.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_lightning_white.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_quake_light.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_quake_light.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_humidity.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_current_dewpoint.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_current_dewpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\point_white.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\point_white.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_wind.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_wind.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\marker_report_fog.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\marker_report_fog.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_lightning.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_advisories.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_advisories.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_snowdepth.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_snowdepth.png"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\legend_radar.png",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\drawable-ldpi-v4\\legend_radar.png"
+    }
+]

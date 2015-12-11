@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map_options_menu.xml",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\menu\\map_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\YUAN\\AndroidStudioProjects\\ForecastSearch\\app\\build\\intermediates\\exploded-aar\\com.hamweather\\aeris-maps-library\\1.1.1\\res\\menu\\main.xml"
+    }
+]
